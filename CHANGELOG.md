@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4](https://github.com/DefinitelyATestOrg/sdk-python/compare/v0.0.3...v0.0.4) (2023-09-14)
+
+
+### Features
+
+* some changes ([db00642](https://github.com/DefinitelyATestOrg/sdk-python/commit/db0064210aeb3bea319fad489c51538fc7de067c))
+* some changes ([878bbb7](https://github.com/DefinitelyATestOrg/sdk-python/commit/878bbb778baad01d05b4498fa12f80a03bbf5421))
+
 ## [0.0.3](https://github.com/DefinitelyATestOrg/sdk-python/compare/v0.0.2...v0.0.3) (2023-09-14)
 
 
